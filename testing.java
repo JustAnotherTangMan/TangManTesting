@@ -1,3 +1,5 @@
+package TangManTesting;
+
 public class testing {
 
     public testing() {
