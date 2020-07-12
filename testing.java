@@ -9,12 +9,9 @@ public class testing {
     public static void main(String[] args) {
         System.out.println("testing");
         System.out.println("nooo you can't just get a perfect score on the ACT! haha 36 go brrrrr");
-<<<<<<< HEAD
         System.out.println("Collegeboard moneygrab screw SAT");
-=======
         
         System.out.println("triple baby");
         System.out.println("jugemujugemugokonosurikirekaijarisuigyonosuigyomatsuunraimatsufuraimatsukunerutokoronisumutokoroyaburakojinoburakojipaipopaipopaiponoshuringanshuringannogurindaigurindainoponpokopinoponpokonanochokyuumenochousuke");
->>>>>>> dev
     }
 }
